@@ -9,9 +9,7 @@
 </div>
 
 <div align="center">
-  
-  ## Demonstração
-  
+
   ![Demonstração do HospitalSystem](HospitalSystem/wwwroot/assets/video-hospital.gif)
 </div>
 
